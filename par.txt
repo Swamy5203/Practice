@@ -1,1 +1,1 @@
-first git 2 branching
+first git 2 branching master
